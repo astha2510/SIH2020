@@ -1,68 +1,23 @@
 # SIH2020
-Project Title :I AM NOT A ROBOT
 
-Designing a CAPTCHA Authentication Process for Visually Impaired People and an easily Integrable SDK (for Android, iOS both) for enabling Morse Code driven CAPTCHA while Form Filling.
+Team Name :I AM NOT A ROBOT
+Team Leader:Astha
+Team Members-
+1.Abhishek Vanjani
+2.Manish Devgn
+3.Anjali Jain
+4.Satyam Gupta
+5.Astha Mehta
+6.Utsha Sinha
+
+Organisation: Dte of IT & Cyber Security, DRDO
+Domain Bucket: Miscellaneous
+PS Number: CK146
+
+Problem Statement:
+Designing a CAPTCHA Authentication Process for Visually Impaired People.
+Proposed Solution:
+Designing an Easily Integrable SDK (for Android, iOS both) for enabling Morse Code driven CAPTCHA while Form Filling
 
 
-Prerequisites
 
-What things you need to install the software and how to install them
-
-Give examples
-
-Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-Give the example
-
-And repeat
-
-until finished
-
-End with an example of getting some data out of the system or using it for a little demo
-Running the tests
-
-Explain how to run the automated tests for this system
-Break down into end to end tests
-
-Explain what these tests test and why
-
-Give an example
-
-And coding style tests
-
-Explain what these tests test and why
-
-Give an example
-
-Deployment
-
-Add additional notes about how to deploy this on a live system
-Built With
-
-    Dropwizard - The web framework used
-    Maven - Dependency Management
-    ROME - Used to generate RSS Feeds
-
-Contributing
-
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-Versioning
-
-We use SemVer for versioning. For the versions available, see the tags on this repository.
-Authors
-
-    Billie Thompson - Initial work - PurpleBooth
-
-See also the list of contributors who participated in this project.
-License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
-Acknowledgments
-
-    Hat tip to anyone whose code was used
-    Inspiration
-    etc
