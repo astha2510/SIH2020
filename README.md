@@ -13,7 +13,7 @@ PS Number: CK146
 
 Problem Statement:Designing a CAPTCHA Authentication Process for Visually Impaired People.
 
-Proposed Solution:Designing an Easily Integrable SDK (for Android, iOS both) for enabling Morse Code driven CAPTCHA while Form Filling
+Proposed Solution:Designing an Easily Integrable SDK (for Android, iOS both) for enabling Morse Code driven CAPTCHA while Form Filling.
 
 
 
