@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Registration Form </title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<script type="text/javascript" src="aes.js"></script>
+		<script type="text/javascript" src="morse.js"></script>
+	</head>
+	<body>
+		<div>
+			<form action="javascript:void(0)">
+				<div class="formCenter">
+					<div class="segment">
+						<p class="h2">Basic Description Form</p>
+						<p class="h4">This is a basic description form please enter your details.</p>
+					</div>
+					<div class="segment">
+						<br> <br>
+						<label> Your Name<sup class="redcolor"> * </sup> </label>
+						<input type="text" placeholder="Your Name" onclick="speak('Enter Your Name')" x-webkit-speech/> <br><br>
+						<label> Favourite Color<sup class="redcolor"> * </sup>  </label>
+						<input type="text" placeholder="Your Favourite Color" onclick="speak('Enter Favourite Color')" /><br><br><br>
+	  					<label> Enter the Captcha text below<sup class="redcolor"> * </sup></label> <br>
+	  					<label id="captcha-morse"></label>
+	  					<button class="captcha-btn" id="captcha-btn" onclick="getCaptcha()">Captcha</button>
+	  					<input type="text" name="captcha" id="captcha-inp" placeholder="Enter Captcha Text"><br><br>
+	  					<button id="validate-btn" class="captcha-btn" onclick="validate()">Validate</button>
+					</div>
+					<button id="submitBtn" class="submitbutton" onclick="submitForm()" disabled> Submit </button>
+					<br><br><br><br>
+				</div>
+			</form>
+		</div>
+	</body>
+	<script type="text/javascript" src="main.js"></script>
+
+</html>
