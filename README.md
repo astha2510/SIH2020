@@ -9,7 +9,7 @@ Designing an Easily Integrable SDK (for Android, iOS both) for enabling Morse Co
 
 ## Running the tests:
 
-Step 1: Browse to www.sih.surge.sh
+Step 1: Browse to www.mysih.surge.sh
 Step 2: Fill the required fields.
 Step 3: Press <get captcha> button to receive the CAPTCHA.
 Step 4: Captcha will be provided in form of MORSE Code Vibrations on the phone.
