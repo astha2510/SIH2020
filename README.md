@@ -1,5 +1,5 @@
 # SIH2020
-## Project Title: I AM NOT ROBOT
+## Project Title: I AM NOT A ROBOT
 
 ## Topic: 
 Designing a CAPTCHA Authentication Process for Visually Impaired People.
